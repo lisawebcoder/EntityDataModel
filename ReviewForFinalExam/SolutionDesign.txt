@@ -1,0 +1,48 @@
+
+Download the case study
+Read the case study verycarefully.
+
+Solution Design
+Who are the users of this application?
+
+Program Coordinator
+        -Assign a course to a teacher
+          How to do?
+                      - Need Teacher Info
+                      - Need Course Info
+
+        - List all the courses assigned to a given teacher
+        - View all the teachers who will teach the same course but in different groups
+        - LogIn
+  
+
+Teacher
+
+       - View the courses assigned
+       - LogIn
+
+===============
+Program Structure
+
+     - Business
+
+
+     - DataAccess
+
+
+     - GUI
+
+         - FormLogIn.cs
+
+         - CourseAssignment.cs
+
+         - CourseListAssigned.cs
+
+
+     - Validation (if necessary)
+
+===================
+
+
+
+
